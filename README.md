@@ -81,7 +81,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram" />
   </a>
-  <a href="#">
+  <a href="https://t.me/scamerblacks">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" />
   </a>
 </p>
