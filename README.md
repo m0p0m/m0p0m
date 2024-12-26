@@ -8,8 +8,8 @@
   <tr>
     <th>Front-end Development</th>
     <th>Back-end Development</th>
-    <th>Mobile Development</th>
     <th>Tools and Technologies</th>
+    <th>Networking and Security</tr>
   </tr>
   <tr>
     <td align="center">
@@ -29,21 +29,13 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </td>
-  </tr>
-  <tr>
-    <th colspan="4">Networking and Security</th>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
+      <td align="center">
       <img src="https://img.shields.io/badge/Network%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+"/>
       <br/>
       <img src="https://img.shields.io/badge/CEH-AB2526?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH"/>
@@ -55,13 +47,7 @@
   </tr>
 </table>
 
----
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
-</div>
-
----
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
