@@ -4,8 +4,9 @@
 
 ---
 🚀 **About Me:**
-- 🛡️ Backend developer (Node.js, Express, MongoDB, PostgreSQL, MySQL)
+- 🛡️ Backend developer (Node.js, Express, typescript, ES6+, MongoDB, MySQL)
 - 🛠️ Expert in secure APIs, JWT, OAuth
+- ⚙️ Architecture MVC Architecture, RESTful API, Microservices
 - 📱 Flutter app 
 - 💻 JavaScript lover (Express, socket.io)
 - 🐍 Python automation & security geek
