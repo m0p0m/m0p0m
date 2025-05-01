@@ -6,8 +6,8 @@
 🚀 **About Me:**
 - 🛡️ Backend developer (Node.js, Express, MongoDB, PostgreSQL, MySQL)
 - 🛠️ Expert in secure APIs, JWT, OAuth
-- 📱 Flutter app builder with BLoC & Dio
-- 💻 JavaScript lover (Express, full-stack)
+- 📱 Flutter app 
+- 💻 JavaScript lover (Express, socket.io)
 - 🐍 Python automation & security geek
 - 🐛 Bug Hunter | OWASP Top 10 | Penetration Testing
 
