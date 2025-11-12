@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter"/></a>
   <a href="https://www.instagram.com/yourprofile"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram"/></a>
-  <a href="[https://t.me/scamerblacks](https://t.me/m0p0m_ts)"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" alt="Telegram"/></a>
+  <a href="https://t.me/m0p0m_ts"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" alt="Telegram"/></a>
 </p>
 
 ---
