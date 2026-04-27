@@ -1,13 +1,12 @@
 # Hi there, I'm ali 👋
 
-### 👨🏻‍💻 Backend Developer | Flutter, Python & JavaScript Enthusiast | Bug Hunter
+### 👨🏻‍💻 Backend Developer | Python & JavaScript Enthusiast | Bug Hunter
 
 ---
 🚀 **About Me:**
 - 🛡️ Backend developer (Node.js, Express, typescript, ES6+, MongoDB, MySQL)
 - 🛠️ Expert in secure APIs, JWT, OAuth
 - ⚙️ Architecture MVC Architecture, RESTful API, Microservices
-- 📱 Flutter app 
 - 💻 JavaScript lover (Express, socket.io)
 - 🐍 Python automation & security geek
 - 🐛 Bug Hunter | OWASP Top 10 | Penetration Testing
@@ -20,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
